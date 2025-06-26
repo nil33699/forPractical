@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//adding comment for fun               for github branch check
+
 int main() {
     int *ptr, *ptr_calloc, *temp_ptr;
     int n, i;
